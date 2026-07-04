@@ -8,7 +8,7 @@
   "server": {
     "ip": "thestrongestserver.play.hosting",
     "port": 30841,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
